@@ -1,1 +1,4 @@
-Find out how to echo some text into a text file 
+Find out how to echo some text into a text file.
+This is done by doing:
+
+echo Some text here > filename.txt
