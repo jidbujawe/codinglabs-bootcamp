@@ -6,3 +6,5 @@
 - Tailwind CSS
 
 The final project would be a clone of: [IMDB](https://www.imdb.com/)
+
+Kieran was here :P
